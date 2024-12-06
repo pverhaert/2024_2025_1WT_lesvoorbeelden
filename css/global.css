@@ -32,8 +32,8 @@ footer {
     display: none;
 }
 
-.qrcode {
-    width: 200px;
+#qr {
+    float: right;
 }
 
 @media (min-width: 800px) {
